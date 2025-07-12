@@ -11,4 +11,9 @@ A bash script to orchestrate a suite of SOC detection scripts, running each scri
 
 ## Dependencies
 - bash
-- 
+- [Configuration file](https://github.com/EsosaSEC/Configuration-file)
+- [Failed Login detection](https://github.com/EsosaSEC/Failed-Login-Detector)
+- [Privilege Escalation](https://github.com/EsosaSEC/Privilege-Escalation-Detector)
+- [Network Scanning](https://github.com/EsosaSEC/Network-Scanner)
+- [Process Monitoring](https://github.com/EsosaSEC/Process-Monitor)
+
